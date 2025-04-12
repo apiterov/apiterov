@@ -8,6 +8,10 @@
 
 Вот некоторые из моих заметных проектов:
 
+### [snipr](https://github.com/apiterov/snipr)
+
+**snipr** - веб сервис по сокращению ссылок
+
 ### [EGWeb Framework](https://github.com/apiterov/egweb-framework)
 
 **EGWeb Framework** — это фреймворк, созданный для более глубокого изучения работы подобных фреймворков.
